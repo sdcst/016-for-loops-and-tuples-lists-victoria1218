@@ -8,7 +8,7 @@ position in the tuple
 """
 
 people=("John","Tyler","Dash","Kieran","Jayson","Tomoki","Minji","Dawson","Hewitt","Josh","Anson","Cole")
-x = int(input("Enter a number less tha 10"))
+x = int(input("Enter a number less that 10"))
 for i in people:
     print(people[x])
     break
